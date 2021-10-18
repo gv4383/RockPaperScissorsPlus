@@ -1,0 +1,3 @@
+# Rock Paper Scissors Plus
+
+A game of rock-papper-scissors, but more...
