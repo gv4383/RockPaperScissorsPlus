@@ -173,7 +173,7 @@ struct ContentView: View {
     func restartGame(totalReset: Bool) -> Void {
         if totalReset {
             playerPoints = 0
-            round = 1
+            round = 0
         }
         
         selectedComputerMove = Int.random(in: 0...2)
